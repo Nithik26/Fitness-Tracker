@@ -16,3 +16,12 @@ Data Persistence
 Data Structures
 User Input
 Date Handling
+
+Packages Used:
+OOP Principles- java.lang        
+File Handling- java.io        
+Collection Framework-  java.util        
+User Input- java.util.Scanner        
+Date and Time- java.time        
+Exception Handling- java.lang.Exception        
+Graphical User Interface- javax.swing or javafx
